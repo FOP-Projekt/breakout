@@ -1,0 +1,13 @@
+*.class
+
+
+lwjgl-2.9.3/
+native/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
